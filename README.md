@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm currently working on Minishell with @Tart3mpion
+I'm currently working on Minishell with [Lucrèce](https://github.com/Tart3mpion)
 
 > Looking for a new job opportunity in September 2022 💻 
 
