@@ -3,7 +3,7 @@
 
 I'm currently working on Minishell with [Lucrèce](https://github.com/Tart3mpion) ! 
 
-► Looking for a new job opportunity in September 2022 💻 
+        ► Looking for a new job opportunity in September 2022 💻 
 
 *signed by a 42School Student*
 
