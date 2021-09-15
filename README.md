@@ -1,6 +1,8 @@
-### Hello 👋
+### Hi, I'm Clara 👋
 
+*42School Student*
 ---
+
 <!--
 **clbouche/clbouche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
