@@ -1,7 +1,7 @@
 ### Hi, I'm Clara 👋
 ---
 
-I'm currently working on Minishell with [Lucrèce](https://github.com/Tart3mpion) ! 
+I'm currently working on CPP module from 42 ! 
 
         ► Looking for a new job opportunity in September 2022 💻 
 
