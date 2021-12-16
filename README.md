@@ -5,9 +5,9 @@ I'm currently working on CPP module from 42 !
 
         ► Looking for a new job opportunity in September 2022 💻 
 
-*Clbouche - 42School Student*
-
 [![clbouche's 42 stats](https://badge42.herokuapp.com/api/stats/clbouche?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+
+*Clbouche - 42School Student*
 
 <!--
 **clbouche/clbouche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
