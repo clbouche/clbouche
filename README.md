@@ -1,7 +1,7 @@
 ### Hi, I'm Clara 👋
 ---
 
-I just finished the CPP pool and loved it! Let's go and start ft_containers !
+I just finished the CPP pool and loved it! Let's go and start ft_containers 
 
         ► Looking for a new job/intership opportunity in September 2022 💻 
 
