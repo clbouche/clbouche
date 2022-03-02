@@ -5,8 +5,6 @@ I just finished the CPP pool and loved it! Let's go and start ft_containers
 
         ► Looking for a new job/intership opportunity in September 2022 💻 
 
-[![clbouche's 42 stats](https://badge42.herokuapp.com/api/stats/clbouche?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
-
 *Clbouche - 42School Student*
 
 <!--
