@@ -1,9 +1,20 @@
 ### Hi, I'm Clara 👋
 ---
 
-I just finished the CPP pool and loved it! Let's go and start ft_containers 
+I just finished Inception project! Let's go and start [ft_containers](https://github.com/clbouche/FT_CONTAINERS)
 
         ► Looking for a new job/intership opportunity in September 2022 💻 
+---
+        
+ #### Languages
+
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clbouche&theme=blue-green)
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+
+
 
 *Clbouche - 42School Student*
 
@@ -20,5 +31,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- pour les badges : 
+        https://dev.to/envoy_/150-badges-for-github-pnk
+
+
 -->
 
