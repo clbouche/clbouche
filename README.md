@@ -1,9 +1,5 @@
 ### Hi, I'm Clara 👋
 
-<!--
-*![](https://komarev.com/ghpvc/?username=clbouche&color=yellowgreen&label=)
--->
-
 ---
 
 I just finished Inception project! Let's go and start [ft_containers](https://github.com/clbouche/FT_CONTAINERS)
@@ -21,9 +17,6 @@ I just finished Inception project! Let's go and start [ft_containers](https://gi
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-
-
-
 
 
 *Clbouche - 42School Student*
