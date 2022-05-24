@@ -2,7 +2,7 @@
 
 ---
 
-I just finished Inception project! Let's go and start [ft_containers](https://github.com/clbouche/FT_CONTAINERS)
+I just finished ft_containers project! Let's go and start [ft_irc](https://github.com/clbouche/ft_irc)
 
         ► Looking for a new job/intership opportunity in September 2022 💻 
 ---
