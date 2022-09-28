@@ -4,7 +4,7 @@
 
 I just finished the 42 common core! 
 
-        ► Looking for a new job/intership opportunity 💻 
+        ► Looking for a new intership opportunity in Bordeaux 💻 
 ---
 
 *Clbouche 🌼 - 42School Student*
