@@ -2,9 +2,9 @@
 
 ---
 
-I just finished ft_containers project! Let's go and start [ft_irc](https://github.com/clbouche/ft_irc)
+I just finished the 42 common core! 
 
-        ► Looking for a new job/intership opportunity in September 2022 💻 
+        ► Looking for a new job/intership opportunity 💻 
 ---
         
  #### Languages
