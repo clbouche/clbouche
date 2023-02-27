@@ -1,10 +1,12 @@
 ### Hi, I'm Clara 👋
 
 ---
+Currently working as full-stack intern developer at Cdiscount in Bordeaux !
 
-I just finished the 42 common core! 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-        ► Looking for a new intership opportunity in Bordeaux 💻 
+        ► Looking for a new job opportunity in Bordeaux for september 2024 💻 
 ---
 
 *Clbouche 🌼 - 42School Student*
